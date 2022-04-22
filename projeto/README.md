@@ -1,0 +1,13 @@
+# Gulp | Dependencias
+- Install node js: checkout node version "node -v" If there's one
+- Install gulp: npm install --save-dev -g gulp-cli
+- create gulfile.js to manipulate code
+- Init Jason file: npm init -y
+- npm install gulp-cssmin --save-dev
+- npm install gulp-uglify --save-dev: That one is js file
+- npm install gulp-image --save-dev
+- npm install --save-dev gulp-htmlmin
+- npm install --global http-server: cloud hosting simulator
+- http-server ./dist: run cloud server simulator "file-main ./dist"
+- npm install --save-dev gulp-babel @babel/core @babel/preset-env
+- npm install node-sass gulp-sass --save-dev (Incluindo sass no gulp)
